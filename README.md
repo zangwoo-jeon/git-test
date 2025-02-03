@@ -38,8 +38,8 @@
 
 -   **프론트엔드:**  React, Vue, HTML/CSS, JavaScript
 -   **백엔드:**  Node.js, Express, MongoDB
--   **도구:**  Git, Docker, Webpack, VSCode
--   **클라우드:**  AWS, Firebase
+-   **도구:**  Git, Docker, Python, VSCode
+-   **클라우드:**  AWS, GCP
 
 ----------
 
