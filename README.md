@@ -48,7 +48,7 @@
 
 -   **이메일:**  [zangwoo2007@naver.com](mailto:zangwoo2007@naver.com)
 -   **GitHub:**  [https://github.com/zangwoo-jeon](https://github.com/zangwoo-jeon)
--   **LinkedIn:**  [https://linkedin.com/in/username](https://linkedin.com/in/username)
+-   **개인블로그:**  [https://zangwoo.tistory.com](https://zangwoo.tistory.com/)
 
 ----------
 
